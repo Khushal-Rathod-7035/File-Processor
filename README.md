@@ -4,6 +4,7 @@ Back-end development task : File Processor
 ## Overview
 
 This project is designed to read data from multiple files located in `input/` folder, process the data, and generate an output CSV file in `output/` folder. The output file will contain unique data entries and a footer with the second highest salary and the average salary.
+- [Design Specification](https://github.com/Khushal-Rathod-7035/File-Processor/blob/master/documents/DesignSpecification.pdf)
 
 ## Project Structure
 
